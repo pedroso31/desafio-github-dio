@@ -1,2 +1,2 @@
-# Repositorio do desafio de Projeto NTT-DATA New Talents 3
-Desafio de Projeto Git/Github
+# Desafio de Projeto NTT-DATA New Talents 3
+Repositorio  Git/Github
